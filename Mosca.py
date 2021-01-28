@@ -3,7 +3,7 @@ from pylab import*
 Tmax= 50.   #----Tiempo máximo para el experimento virtual
 DeltaT=0.01 #----Incremento temporal MUR si es muy pequeño se filtra
 va,vb,vm=10.,-10.,100.
-#----Cambie esto-----
+#----Por esto otro-----
 T,XA,XB,XM=[],[],[],[]
 #---Variables
 t,xa,xb,xm=0.,0.,100.,0.
